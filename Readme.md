@@ -56,9 +56,10 @@ It simulates basic financial operations like depositing money, withdrawing, tran
 
 ```
 /project-folder
-│── index.html       # Main UI
-│── style.css        # Custom styles (if any)
-│── script.js        # All wallet functionality
+│── index.html       # Login UI
+│── script.js        # LogIn functionality
+│── home.html        # Main UI
+│── home.js          # All wallet functionality
 │── /assets          # Images/icons (e.g., wallet.png)
 │── Payoo-MFS.fig    # Figma design file
 │── README.md        # Project documentation
