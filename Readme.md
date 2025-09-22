@@ -7,7 +7,7 @@ It simulates basic financial operations like depositing money, withdrawing, tran
 
 ## 🔗 Live Demo
 
-[🚀 Click Here to Try Payoo Now](#)
+🚀 [Click Here to Try Payoo Now](https://mahbub-zaman.github.io/Payoo-Banking/)
 
 ---
 
@@ -112,7 +112,7 @@ To access the wallet system, use the following credentials:
 
 **🚩 The app design is available in Figma File.**
 
-[👉Payoo Figma File](./Payoo_Figma.figma)
+👉 [Payoo Figma File](./Payoo-MFS.fig)
 
 ---
 
